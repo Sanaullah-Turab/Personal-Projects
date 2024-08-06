@@ -8,7 +8,7 @@
 }
 
 body {
-  background-color: rgba(0, 0, 0, 0.795);
+  background-color: #c2b7b7;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -60,7 +60,8 @@ body {
 }
 
 .container button.hidden {
-  background-color: transparent;
+  color: #981c9c;
+  background-color: #fff;
   border-color: #fff;
 }
 
